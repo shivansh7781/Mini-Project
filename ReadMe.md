@@ -1,4 +1,4 @@
-* Twitter Sentiments Analysis
+# Twitter Sentiments Analysis
 * We are analysing the dataset of "tweets and its related sentiments" 
 * We are using libraries as below
 1. numpy 
